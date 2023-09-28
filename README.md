@@ -18,4 +18,6 @@ Please note that the code assumes that the Sudoku puzzle you input is solvable. 
 ### Here is a video of the code running
 
 
-https://github.com/JhenniFalcao/sudoku_solver/assets/118202235/4778b7ce-ce4c-4fe0-8145-176e9cb5ef9e
+
+https://github.com/JhenniFalcao/sudoku_solver/assets/118202235/e58bc37e-0ecf-4168-a540-bdda0d5f9a46
+
